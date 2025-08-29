@@ -80,3 +80,5 @@ Created interactive messages for better user experience
 Tested the program with different words and edge cases
 
 OUTPUT:
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2f22c544-d7c8-4aec-894a-2de62bd4fbee" />
